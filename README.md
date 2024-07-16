@@ -46,7 +46,7 @@ set API_TOKEN="?token=SEU_API_TOKEN"
 mvn clean install
 ```
 
-4. Execute a Aplicação
+4. Execute a Aplicação.
 
 ### Contribuição
 Sinta-se à vontade para contribuir com o projeto. Para isso, siga os passos abaixo:

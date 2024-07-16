@@ -23,7 +23,7 @@ Este projeto é uma aplicação Java projetada para consumir várias APIs. Ele �
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/ygorportes/api-data-fetcher.git
+git clone https://github.com/ygorportes/api-explorer.git
 ```
 ```bash
 cd api-data-fetcher
